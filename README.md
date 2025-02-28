@@ -1,5 +1,6 @@
-### Домашнее задание к занятию «2.3. Patterns»
+[![Java CI with Gradle](https://github.com/Elena-Yakovleva/JavaPatterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/Elena-Yakovleva/JavaPatterns/actions/workflows/gradle.yml)
 
+### Домашнее задание к занятию «2.3. Patterns»
 
 #### Задача №1: заказ доставки карты (изменение даты)
 Вам необходимо автоматизировать тестирование новой функции формы заказа доставки карты:
